@@ -1,1 +1,2 @@
 一个浪漫的心形表白html页面
+使用了digital-7_mono字体
